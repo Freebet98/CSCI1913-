@@ -1,0 +1,7 @@
+WordSearch
+Author: Bethany Freeman
+
+Description: This program has the ability to determine whether a word is within a 2D array,
+assuming the 2D array is characters, within the directions of left-to-right, top-to-bottom,
+and diagonally. This program is also able to create a 2D array that displays as a WordSearch
+given words that need to be within it.
